@@ -34,3 +34,4 @@ plt.title("Customer Spending Pattern")
 plt.ylabel("Total Spending")
 plt.show()
 
+
