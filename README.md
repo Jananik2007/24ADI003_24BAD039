@@ -68,7 +68,7 @@ To explore and preprocess real-world datasets using Python, Pandas, and Matplotl
 
 3.Heatmaps helped identify highly correlated features useful for predictive modeling.
 
-**Scenario 4: Banking Customer Data**
+**Scenario 4: Customer Analysis Data**
 
 **Dataset:** Kaggle – Customer Personality Analysis
 
